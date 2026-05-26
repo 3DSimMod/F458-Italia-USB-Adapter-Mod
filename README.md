@@ -34,7 +34,7 @@ Exceeding this limit may cause damage to the wheel structure or mounting interfa
 ###### 8. Connect the cable to the USB Adapter Mod, then secure it with the screw.
 <img src="F458 Italia Guide Images/8.jpg" width="400">
 
-###### 9. Attach the quick release to the USB Adapter Mod, then mount the assembly onto the wheel.
+###### 9. Attach your 6x70 mm quick release to the USB Adapter Mod, then mount the assembly onto the wheel.
 <img src="F458 Italia Guide Images/9.jpg" width="400">
 
 ###### 10. Reconnect all internal cables.
